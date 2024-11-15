@@ -1,2 +1,6 @@
-# Estatutos_e_Deveres
-O Espaço Compasso usa um sistema hierárquico. Todos têm deveres diferentes e todos têm os mesmos direitos. 
+# Estatutos e Deveres
+
+Os membros do **Espaço Compasso** estão inseridos num sistema hierárquico. 
+
+Todos os membros das diferentes hierarquias têm deveres diferentes e todos os membros têm os mesmos direitos. 
+
