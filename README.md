@@ -2,5 +2,10 @@
 
 Os membros do **Espaço Compasso** estão inseridos num sistema hierárquico. 
 
-Todos os membros das diferentes hierarquias têm deveres diferentes e todos os membros têm os mesmos direitos. 
+Todos os membros das diferentes hierarquias têm deveres diferentes, mesmo tendo os mesmos direitos. 
 
+- Lista de Direitos Comuns:
+  1. Não é necessário pagar 1€ de sócio diário.
+  2. Podem usar os vários grupos de comunicação para a organização de eventos.
+  3. Podem aceder à documentação legal do Espaço Compasso.
+  4. ... 
